@@ -1,0 +1,9 @@
+agno
+python-dotenv
+duckduckgo-search
+lancedb
+pandas
+groq
+uvicorn
+fastapi
+openai 
